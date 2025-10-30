@@ -1,1 +1,1 @@
-# web-scrapping-projects
+# Collection of upcoming Web Scraping & Automation projects.
