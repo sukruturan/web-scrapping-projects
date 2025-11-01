@@ -20,3 +20,6 @@ This project scrapes Airbnb listings, cleans the data, calculates a price-perfor
 ```bash
 python airbnb_scrapper.py
 python airbnb_scrapper_clean.py
+
+###AIRBNB DEMO VİDEO
+https://www.youtube.com/watch?v=P-SZv98t6fY
