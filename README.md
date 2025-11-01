@@ -21,5 +21,7 @@ This project scrapes Airbnb listings, cleans the data, calculates a price-perfor
 python airbnb_scrapper.py
 python airbnb_scrapper_clean.py
 
-###AIRBNB DEMO VİDEO
-https://www.youtube.com/watch?v=P-SZv98t6fY
+### 🎥 Demo Video
+
+Airbnb Scraper How its work???  
+**Video:** https://www.youtube.com/watch?v=P-SZv98t6fY
