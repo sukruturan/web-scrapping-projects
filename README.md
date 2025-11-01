@@ -17,7 +17,7 @@ This project scrapes Airbnb listings, cleans the data, calculates a price-perfor
 | Midtown Cozy Room | Manhattan, NY | 3100 | 4.93 | 280 | 0.45 |
 
 ### Run
-```bash
+bash
 python airbnb_scrapper.py
 python airbnb_scrapper_clean.py
 
